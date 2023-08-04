@@ -1,0 +1,13 @@
+app:
+  name: "xsis"
+  version: "v1.0.0"
+
+mysql:
+  user: "muhammad"
+  passwd: "18121990"
+  net: "tcp"
+  addr: "192.168.1.2:3306"
+  dbname: "xsis"
+
+host:
+  port: ":8888"
